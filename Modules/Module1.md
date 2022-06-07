@@ -84,12 +84,12 @@ print("Hello, World!")
 ```py
 # Inputs
 stringInput = input()
-intInput = int(input());
-longInput = long(input());
-floatInput = float(input());
+intInput = int(input())
+longInput = long(input())
+floatInput = float(input())
 
 # output
-print();
+print()
 ```
 
 ## Data Types
