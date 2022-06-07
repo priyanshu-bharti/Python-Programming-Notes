@@ -5,10 +5,10 @@
 - [x] ~~History of Python~~
 - [x] ~~Features of Python~~
 - [x] ~~Hello World program in Python~~
-- [x] Reserved Keywords
-- [x] Identifier Rules
-- [x] Input and Outputs
-- [x] Data Types
+- [x] ~~Reserved Keywords~~
+- [x] ~~Identifier Rules~~
+- [x] ~~Input and Outputs~~
+- [x] ~~Data Types~~
 
 ## History of Python
 
