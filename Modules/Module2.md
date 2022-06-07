@@ -5,7 +5,7 @@
 - [x] ~~Operators~~
 - [x] ~~if else and elif~~
 - [x] ~~Loops~~
-- [x] continue and pass
+- [x] ~~continue and pass~~
 
 ## Operators
 
