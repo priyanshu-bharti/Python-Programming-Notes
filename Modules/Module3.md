@@ -11,7 +11,7 @@
 - [x] ~~Dict Methods~~
 - [x] ~~Set~~
 - [x] ~~Set Methods~~
-- [ ] Comprehensions
+- [x] ~~Comprehensions~~
 
 ## Sequenced Type Methods and Operations
 
