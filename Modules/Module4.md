@@ -59,6 +59,9 @@ string.split(" ") # Returns each substring in a list as separate string
 # Store multiple numbers separated by spaces in a list
 string = "1 2 3 4 5"
 list(map(int, string.split(" ")))
+
+# Finding the ascii value of the character
+ord(char)
 ```
 
 ## Slicing Strings
