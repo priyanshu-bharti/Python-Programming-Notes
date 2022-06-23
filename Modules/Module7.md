@@ -39,3 +39,16 @@
 ### Retirement/disposal:
 
 - The manufacturer removes the product from the market as it becomes obsolete. This phase can happen as technology advances, and users' needs change.
+
+## Summary
+
+1. Specify the need for a project
+2. Start project planning - Cost benefit analysis, risk management, etc.
+3. Get the functional and non-functional requirements
+4. Create a concept or early design on the system
+5. Develop the system
+6. Test the System
+7. Deploy and install
+8. Provide support
+9. Upgrade the system
+10. Retire the project
