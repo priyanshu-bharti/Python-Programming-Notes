@@ -104,6 +104,14 @@ string[1:-5]      # ilw       : start from 1 till -4 (excluding -5)
 - `"\w"` : characters and digits
 - `"\W"` : anything but characters and digits
 - `"\s"` : Spaces
+- `*` : Match 0+
+- `+` : Match 1+
+- `?` : Match exactly 0 or 1
+- `^` : Beginning of line
+- `$` : End of line
+- `<` : Left word boundary
+- `>` : Right word boundary
+- `\B` : Not a word boundary
 
 ### Patterns for matching Password, Emails, and URLs
 
