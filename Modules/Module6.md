@@ -152,3 +152,49 @@ n = np.array([[50, 29], [30, 44]])
 det = linal.det(n)
 print(det)
 ```
+
+## Summary
+
+### Numpy
+
+```py
+import numpy as np
+
+# Functions
+arr = np.array([[1,2,3],[4,5,6]])
+arr.shape
+arr.ndim
+arr.flatten()
+np.zeros((2,3))
+np.ones((2,3))
+value = 10
+np.full((3,3), value, dtype = int)
+
+# Scalar
+arr
+arr+10
+arr*2
+arr-5
+
+# Arithmetic
+np.add(A, B)
+np.subtract(A, B)
+np.multiply(A, B)
+np.dot(A, B)
+```
+
+### Pandas
+
+```py
+import pandas as pd
+
+list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+a = ['a', 'b', 'c', 'd']
+b = [1, 2, 3, 4]
+
+# Creating data frame
+df = pd.read_csv("file.txt")
+df = pd.DataFrame(list1)
+df = pd.DataFrame(list(zip(a, b))) # Specify index and columns
+
+```
