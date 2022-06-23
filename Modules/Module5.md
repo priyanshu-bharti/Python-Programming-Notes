@@ -88,13 +88,13 @@ print(x(5, 10)) # Outputs 15
 
 ```py
 try:
-  print(2/0)
+    print(2/0)
 except:
-  print(f"{sys.exec_info()[0]} Exception : You divided by Zero")
-finally:
-  print("This statement is always executed whether the exception occurred or not.")
+    print("Exception : You divided by Zero")
 else:
-  print("If this code executes, there were no exceptions.")
+    print("If this code executes, there were no exceptions.")
+finally:
+    print("This statement is always executed whether the exception occurred or not.")
 ```
 
 ## Built-in Errors and Exceptions
